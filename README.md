@@ -10,5 +10,6 @@ You can see detailed explanation and images from apps by clicking the project na
 - [Crypto App](https://github.com/cigdeemtok/AndroidKotlinPractices/tree/main/CryptoUdemy)
 - [Random Number Guess](https://github.com/cigdeemtok/AndroidKotlinPractices/tree/main/RandomNumberGuess)
 
-  You can clone and check out these projects. All feedbacks are appreciated.
+
+You can clone and check out these projects. All feedbacks are appreciated.
 
