@@ -7,10 +7,10 @@ I practiced databases, fragments, navigation, adding options menu to the app, li
 You can see some images from app below: 
 
 <p float="left">
-  <img src="https://github.com/cigdeemtok/AndroidKotlinProjects/blob/master/images/ArtBookOne.jpg" width="33%" />
-  <img src="https://github.com/cigdeemtok/AndroidKotlinProjects/blob/master/images/ArtBookPermission.jpg" width="33%" />
-  <img src="https://github.com/cigdeemtok/AndroidKotlinProjects/blob/master/images/ArtBookTwo.jpg" width="33%" />
-  <img src="https://github.com/cigdeemtok/AndroidKotlinProjects/blob/master/images/ArtBookThree.jpg" width="33%" />
+  <img src="https://github.com/cigdeemtok/AndroidKotlinPractices/blob/main/images/ArtBookOne.jpg" width="33%" />
+  <img src="https://github.com/cigdeemtok/AndroidKotlinPractices/blob/main/images/ArtBookPermission.jpg" width="33%" />
+  <img src="https://github.com/cigdeemtok/AndroidKotlinPractices/blob/main/images/ArtBookTwo.jpg" width="33%" />
+  <img src="https://github.com/cigdeemtok/AndroidKotlinPractices/blob/main/images/ArtBookThree.jpg" width="33%" />
 </p>
 
 You can check out project comments in codes for further details.
