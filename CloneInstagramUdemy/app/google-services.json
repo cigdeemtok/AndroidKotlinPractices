@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512812061823",
+    "project_id": "cloneinstagramudem",
+    "storage_bucket": "cloneinstagramudem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512812061823:android:2cda61442f3b7707a15b4a",
+        "android_client_info": {
+          "package_name": "com.example.cloneinstagramudemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiPxtDloWF0XJFR6dCHKbeIqqRzEk-Xl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
